@@ -1,5 +1,3 @@
-Here's a properly formatted markdown version:
-
 # Jingle Bell Rock
 
 **Artist:** Bobby Helms (1957)  
