@@ -9,6 +9,8 @@
 
 ---
 
+Youtube: https://www.youtube.com/watch?v=nIhs1T7OcZg&list=RDnIhs1T7OcZg&start_radio=1
+
 ## Intro
 
 **D**

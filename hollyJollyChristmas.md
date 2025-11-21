@@ -9,6 +9,9 @@
 
 ---
 
+Youtube version in C: https://www.youtube.com/watch?v=fK_HIsPoq8Y
+
+
 ## Verse 1
 
 ```
